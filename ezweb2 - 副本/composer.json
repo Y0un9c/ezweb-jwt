@@ -1,0 +1,6 @@
+{
+    "require": {
+        "monolog/monolog": "1.5.*",
+        "firebase/php-jwt": "^5.2"
+    }
+}
